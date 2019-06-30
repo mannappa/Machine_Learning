@@ -19,3 +19,5 @@ Predict_Future_Sales/test.csv.gz
 Predict_Future_Sales/test.csv/test.csv
 Step_By_Step_Process/.ipynb_checkpoints/Step_By_Step_ML-checkpoint.ipynb
 Predict_Future_Sales/sample_submission.csv.gz
+Breast_Cancer_Data/.ipynb_checkpoints/breast_cancer_data-checkpoint.ipynb
+Breast_Cancer_Data/breast-cancer-wisconsin.data
